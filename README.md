@@ -1,7 +1,7 @@
 # Laboratorio Lex/Flex – Compiladores y Lenguajes
 
 **Escuela Politécnica Nacional** · Facultad de Ingeniería de Sistemas
-**Periodo:** 2026-B · **GR:** GR1CD · **Equipo # 7**
+**Periodo:** 2026-B · **GR:** GR1CD 
 **Docente:** Rodrigo Fabian Changusic Chuquilla
 
 **Integrantes:**
