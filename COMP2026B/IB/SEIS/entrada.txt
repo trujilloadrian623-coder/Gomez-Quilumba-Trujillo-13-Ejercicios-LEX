@@ -1,0 +1,3 @@
+int x=12
+while x if
+int x+=x

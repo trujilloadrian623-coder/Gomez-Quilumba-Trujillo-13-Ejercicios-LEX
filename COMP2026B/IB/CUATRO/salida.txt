@@ -1,0 +1,13 @@
+123 -> Numero / Exponencial
+
+variable1 -> IDENTIFICADOR
+
+-45.67 -> Numero real / Exponencial
+
+3.14E+10 -> Numero real / Exponencial
+
+2e-5 -> Numero / Exponencial
+
+contador2 -> IDENTIFICADOR
+
+

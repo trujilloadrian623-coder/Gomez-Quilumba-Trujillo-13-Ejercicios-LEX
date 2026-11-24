@@ -1,0 +1,6 @@
+Los numeros son los siguientes>
+10101
+11100
+100012
+123
+
